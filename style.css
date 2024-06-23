@@ -1,0 +1,65 @@
+.Primeira , #Destino {
+  color: #E1624F;
+  font-weight:bold;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+}
+
+main {
+ padding: 88px 80px 137px 80px;
+}
+img {
+  box-sizing:border-box ;
+  margin-top: 40px;
+  
+}
+
+.paragrafo-2{
+  text-align: center;
+  margin-top:24px ;
+  font-style: italic;
+  margin-bottom: 24px;
+}
+
+hr {
+  margin-top: 24px;
+  margin-bottom: 54px;
+
+}
+#Destino {
+  margin-bottom: 2px;
+
+}
+
+
+h2{
+  margin-top: 2px;
+  font-size: 44px;
+  margin-bottom: 8px;
+  padding-left: 5px;
+}
+
+h3 {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 4px;
+  padding-left: 10px;
+}
+
+.paragrafo-3 {
+  padding-left: 1px;
+  margin-bottom: 1px;
+  
+}
+#paragrafo-quatro {
+  margin-bottom: 10px;
+}
+ul li::marker {
+  color: #E1624F;
+}
+h4 {
+  font-size:  24px;
+}
+
+
